@@ -17,8 +17,11 @@
 
 ## Deployed Application
 
+### On screen width of 1024px and above
 ![Deployed Application in use on computer](./assets/images/Computer-Screen.png?raw=true)
+### On minimum screen width of 768px and below 1024px
 ![Deployed Application in use on tablet](./assets/images/Tablet-Screen.png?raw=true)
+###### On screen width of below 768px
 ![Deployed Application in use on phone](./assets/images/Mobile-Screen.png?raw=true)
 
 [Link to Deployed Application](https://lisacr01.github.io/Portfolio/)
