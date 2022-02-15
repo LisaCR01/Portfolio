@@ -21,6 +21,6 @@
 ![Deployed Application in use on tablet](./assets/images/Tablet-Screen.png?raw=true)
 ![Deployed Application in use on phone](./assets/images/Mobile-Screen.png?raw=true)
 
-[Link to Deployed Application](https://lisacr01.github.io/Weather-Dashboard/)
+[Link to Deployed Application](https://lisacr01.github.io/Portfolio/)
 
 
