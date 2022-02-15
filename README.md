@@ -1,5 +1,7 @@
 # Portfolio
 
+In this project I created my own portfolio page for future employers to see. My portfolio has three main sections: about me, my projects and contact information. I chose to use tailwind as a CSS framework as I found it easy to make the website responsive.
+
 ## Technologies Used
 
 * html
