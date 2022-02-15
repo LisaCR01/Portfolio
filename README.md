@@ -1,1 +1,26 @@
 # Portfolio
+
+## Technologies Used
+
+* html
+* tailwind
+
+## Criteria that I met to achieve this
+
+* Have displayed contact information so that the user can contact me.
+* Links to my Github,LinkedIn and a downloadable PDF of my resume so that the user can see my credentials and other work.
+* Display pieces of my work in "My Projects" section, which when clicked it takes you to that deployed application.
+* Each application project has: a title,link to the deployed version, link to the GitHub repository and a screenshot of the deployed application.
+* polished mobile responsive interface
+* Clicking the links in the navigation bar causes the UI to scroll to the corresponding section.
+* The first application is larger in size than the other images.
+
+## Deployed Application
+
+![Deployed Application in use on computer](./assets/images/Computer-Screen.png?raw=true)
+![Deployed Application in use on tablet](./assets/images/Tablet-Screen.png?raw=true)
+![Deployed Application in use on phone](./assets/images/Mobile-Screen.png?raw=true)
+
+[Link to Deployed Application](https://lisacr01.github.io/Weather-Dashboard/)
+
+
